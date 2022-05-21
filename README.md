@@ -4,10 +4,10 @@
 
 I'm ElmoPog, I do programming in my free time and like to help people when I can.
 
-Contacts:
+**Contacts**:
  - ElmoPog#0001 - Discord
  
- Socials:
+ **Socials**:
  - ElmoPog - YouTube
 
 <p align=center>
