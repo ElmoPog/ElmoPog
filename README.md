@@ -4,7 +4,7 @@
 
 
 **About me**:
- I'm ElmoPog, I do programming in my free time and like to help people when I can.
+ - I'm ElmoPog, I do programming in my free time and like to help people when I can.
  I mostly do Minecraft and Discord related programming, currently (21/5/22) my preferred coding language is Java which im also most fluent at
  I'm always interested in learning new stuff, if you want to contact me refer to the Discord tag below. 
  Thanks for reading :)
